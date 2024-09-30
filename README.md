@@ -2,7 +2,7 @@
 
 Meu nome é Izabella
 
-- Estou estudando na alura;
+- Estou estudando na alura☺️;
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçãoe compartilhamento dos meus projetos desenvolvidos
 
